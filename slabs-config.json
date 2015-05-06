@@ -1,0 +1,17 @@
+{
+  "name": "Sort",
+  "description": "Sort data order by field",
+  "type": "utility",
+  "connectionsIn": -1,
+  "connectionsOut": 1,
+  "customIcon": "fa-sort-alpha-asc",
+  "hasSettings": true,
+  "defaultSettings": {
+    "field":"",
+    "descending": false
+  },
+  "source": {
+    "label": "Core Slab",
+    "url": "http://slabs.io/"
+  }
+}
